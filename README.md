@@ -68,6 +68,3 @@ Generated images will be saved in the `output` and `generated` directories. The 
 - This implementation is based on the DCGAN paper: *Radford et al., "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"*
 - Dataset: [CelebA - Large-scale CelebFaces Attributes Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
-## License
-This project is open-source and available under the MIT License.
-
